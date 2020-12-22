@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">BroadcastRecevier Petemuan 8</string>
     <string name="check_sms_permission">Chek SMS Permission</string>
+    <string name="coming_from">coming form</string>
+    <string name="txt_massage">Text Massage</string>
+    <string name="close">Close</string>
+    <string name="incoming_message">incoming Message</string>
 </resources>

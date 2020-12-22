@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".SmsReceiverActivity"></activity>
+        android:theme="@style/SmsReceiverTheme"
 
         <receiver
             android:name=".SmsReceiver"
