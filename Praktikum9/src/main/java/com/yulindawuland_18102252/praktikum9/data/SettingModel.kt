@@ -3,7 +3,6 @@ package com.yulindawuland_18102252.praktikum9.data
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
-class SettingModel {
     @Parcelize
     data class SettingModel (
         var name: String? = null,
