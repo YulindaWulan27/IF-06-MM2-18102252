@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526486214698",
+    "project_id": "myprojectppb-bf900",
+    "storage_bucket": "myprojectppb-bf900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526486214698:android:88a832d27290d05b234b53",
+        "android_client_info": {
+          "package_name": "com.yulindawuland_18102252.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526486214698-ae26l6sbo46e7hb6pd3vqdks8glsi65f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yulindawuland_18102252.praktikum11",
+            "certificate_hash": "f17636609a79b364bb27aef664b4a17391f77001"
+          }
+        },
+        {
+          "client_id": "526486214698-bp234ru9kafohhtuks5gg97p41v20v8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfuDiW1FYJS4-GoldRbwkUL-fWNgIaDSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526486214698-bp234ru9kafohhtuks5gg97p41v20v8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
