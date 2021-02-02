@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rest API</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_global">Global Quotes</string>
+    <string name="title_Global">Global Quotes</string>
+    <string name="title_my_quotes">my qoutes</string>
+    <string name="title_dashboar">class quotes</string>
+    <string name="title_">global quotes</string>
+    <string name="title_global_qoutes">global quotes</string>
+    <string name="title_dashboa">class quotes</string>
+    <string name="title_class_quotes">class quotes</string>
+</resources>
