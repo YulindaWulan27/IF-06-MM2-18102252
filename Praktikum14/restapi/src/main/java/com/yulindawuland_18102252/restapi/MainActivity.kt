@@ -1,4 +1,9 @@
 package com.yulindawuland_18102252.restapi
+
+import android.view.Menu
+import android.view.MenuItem
+import androidx.core.content.ContextCompat.startActivity
+
 <uses-permission android:name="android.permission.INTERNET" />
 
 import android.content.Intent
@@ -40,4 +45,19 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+}
+override fun onCreateOptionsMenu(menu: Menu): Boolean {
+    menuInflater.inflate(R.menu.topbar_menu, menu)
+    return super.onCreateOptionsMenu(menu)
+}
+override fun onOptionsItemSelected(item: MenuItem): Boolean {
+    when (item.itemId) {
+        R.id.action_logout -> {
+            tokenPref.removeToken()
+            val intent = Intent(this@MainActivity, LoginActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
+    }
+    return super.onOptionsItemSelected(item)
 }

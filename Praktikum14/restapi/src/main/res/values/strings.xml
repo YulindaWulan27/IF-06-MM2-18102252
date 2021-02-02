@@ -11,4 +11,5 @@
     <string name="title_global_qoutes">global quotes</string>
     <string name="title_dashboa">class quotes</string>
     <string name="title_class_quotes">class quotes</string>
+    <string name="logout">logout</string>
 </resources>
